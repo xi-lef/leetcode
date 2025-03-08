@@ -19,6 +19,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0141-linked-list-cycle](https://github.com/xi-lef/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0125-valid-palindrome](https://github.com/xi-lef/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +117,8 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
