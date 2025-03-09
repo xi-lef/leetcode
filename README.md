@@ -26,6 +26,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xi-lef/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/xi-lef/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
@@ -118,6 +119,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -131,4 +133,12 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
