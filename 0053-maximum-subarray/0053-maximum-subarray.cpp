@@ -6,8 +6,7 @@ public:
         for (const int& num : nums) {
             cur += num;
             m = max(m, cur);
-            if (cur < 0)
-                cur = 0;
+            cur = max(cur, 0);
         }
         return m;
     }
