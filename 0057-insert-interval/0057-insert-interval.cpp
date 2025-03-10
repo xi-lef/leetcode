@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> insert(vector<vector<int>> intervals,
+    vector<vector<int>> insert(vector<vector<int>>& intervals,
                                const vector<int>& newInterval) {
         const int& start_new = newInterval[0];
         const int& end_new = newInterval[1];
