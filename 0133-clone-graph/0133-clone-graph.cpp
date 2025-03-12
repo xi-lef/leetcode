@@ -24,10 +24,12 @@ public:
     Node* cloneGraph(const Node* node) {
         if (!node)
             return nullptr;
-        if (nodes.contains(node->val))
-            return nodes[node->val];
+        const auto n = nodes.find(node->val);
+        if (n != nodes.end())
+            return n->second;
 
-        Node* copy = nodes[node->val] = new Node(node->val);
+        Node* copy =
+            nodes.emplace(node->val, new Node(node->val)).first->second;
         for (const Node* n : node->neighbors) {
             copy->neighbors.push_back(cloneGraph(n));
         }
