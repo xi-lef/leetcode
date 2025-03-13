@@ -4,6 +4,7 @@ public:
         for (const auto req : prerequisites) {
             reqs.emplace(req.front(), req.back());
         }
+        ok = new bool[numCourses]{};
 
         for (int i = 0; i < numCourses; ++i) {
             unordered_set<int> seen;
@@ -14,7 +15,7 @@ public:
     }
 
     bool canFinish(int i, unordered_set<int>& seen) {
-        if (ok.contains(i))
+        if (ok[i])
             return true;
         if (seen.contains(i))
             return false;
@@ -24,11 +25,11 @@ public:
             if (!canFinish(it->second, seen))
                 return false;
         }
-        ok.insert(i);
+        ok[i] = true;
         return true;
     }
 
 private:
     unordered_multimap<int, int> reqs;
-    unordered_set<int> ok;
+    bool* ok;
 };
