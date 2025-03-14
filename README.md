@@ -15,6 +15,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
@@ -89,6 +90,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0104-maximum-depth-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/xi-lef/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/xi-lef/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xi-lef/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -100,6 +102,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0102-binary-tree-level-order-traversal](https://github.com/xi-lef/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/xi-lef/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/xi-lef/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
@@ -138,6 +141,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
@@ -227,4 +231,8 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
