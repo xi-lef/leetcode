@@ -21,6 +21,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0226-invert-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
