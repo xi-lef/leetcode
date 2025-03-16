@@ -83,6 +83,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0110-balanced-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xi-lef/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -95,6 +96,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0207-course-schedule](https://github.com/xi-lef/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xi-lef/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -119,6 +121,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0110-balanced-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/xi-lef/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Sorting
 |  |
