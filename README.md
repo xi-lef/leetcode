@@ -11,6 +11,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0001-two-sum](https://github.com/xi-lef/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/xi-lef/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/xi-lef/leetcode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -246,4 +247,5 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
