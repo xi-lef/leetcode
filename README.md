@@ -10,6 +10,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0001-two-sum](https://github.com/xi-lef/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/xi-lef/leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
@@ -151,6 +152,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/xi-lef/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
