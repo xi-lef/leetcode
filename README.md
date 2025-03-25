@@ -164,6 +164,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xi-lef/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
@@ -212,6 +213,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -286,4 +288,8 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
