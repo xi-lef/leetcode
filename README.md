@@ -79,6 +79,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/xi-lef/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/xi-lef/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/xi-lef/leetcode/tree/master/0206-reverse-linked-list) |
@@ -241,6 +242,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xi-lef/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
@@ -262,6 +264,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -308,4 +311,8 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/xi-lef/leetcode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
