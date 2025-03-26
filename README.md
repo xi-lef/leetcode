@@ -43,6 +43,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0133-clone-graph](https://github.com/xi-lef/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/xi-lef/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/xi-lef/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/xi-lef/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/xi-lef/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/xi-lef/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/xi-lef/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -197,6 +199,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/xi-lef/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/xi-lef/leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/xi-lef/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -297,4 +300,8 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/xi-lef/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
