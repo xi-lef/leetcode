@@ -23,6 +23,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xi-lef/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/xi-lef/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
@@ -286,6 +287,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/xi-lef/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/xi-lef/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
 ## Simulation
