@@ -30,6 +30,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/xi-lef/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/xi-lef/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -57,6 +58,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -206,6 +208,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -225,6 +228,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/xi-lef/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -273,6 +277,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
@@ -300,6 +305,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/xi-lef/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/xi-lef/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
