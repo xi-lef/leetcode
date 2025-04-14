@@ -80,6 +80,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
+| [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
@@ -88,6 +89,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/xi-lef/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/xi-lef/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0075-sort-colors](https://github.com/xi-lef/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/xi-lef/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/xi-lef/leetcode/tree/master/0141-linked-list-cycle) |
+| [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/xi-lef/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -281,6 +284,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0054-spiral-matrix](https://github.com/xi-lef/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 ## Geometry
 |  |
 | ------- |
