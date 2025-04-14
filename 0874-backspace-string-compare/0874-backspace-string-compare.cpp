@@ -1,10 +1,10 @@
 class Solution {
 public:
-    bool backspaceCompare(string s, string t) {
+    bool backspaceCompare(const string& s, const string& t) {
         ssize_t s_i = s.size() - 1;
         ssize_t t_i = t.size() - 1;
         for (int s_skip = 0, t_skip = 0;;) {
-            const auto skip = [](string& s, ssize_t& i, int& skip) {
+            const auto skip = [](const string& s, ssize_t& i, int& skip) {
                 if (i >= 0 && (s[i] == '#' || skip > 0)) {
                     if (s[i] == '#')
                         ++skip;
