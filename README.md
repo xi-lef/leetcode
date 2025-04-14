@@ -38,6 +38,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
+| [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,4 +360,8 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
