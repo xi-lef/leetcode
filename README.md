@@ -143,6 +143,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -199,6 +201,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -383,4 +386,12 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
