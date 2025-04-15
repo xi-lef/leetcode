@@ -17,6 +17,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/xi-lef/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/xi-lef/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/xi-lef/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/xi-lef/leetcode/tree/master/0075-sort-colors) |
@@ -235,6 +236,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xi-lef/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -312,6 +314,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xi-lef/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 ## Divide and Conquer
 |  |
