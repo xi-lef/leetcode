@@ -272,6 +272,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/xi-lef/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/xi-lef/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
