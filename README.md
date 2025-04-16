@@ -36,6 +36,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/xi-lef/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/xi-lef/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
@@ -137,6 +138,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0141-linked-list-cycle](https://github.com/xi-lef/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/xi-lef/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/xi-lef/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/xi-lef/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -252,6 +254,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/xi-lef/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
@@ -336,6 +339,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0190-reverse-bits](https://github.com/xi-lef/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/xi-lef/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
