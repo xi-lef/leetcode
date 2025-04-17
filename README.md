@@ -86,6 +86,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0014-longest-common-prefix](https://github.com/xi-lef/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xi-lef/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/xi-lef/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/xi-lef/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/xi-lef/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/xi-lef/leetcode/tree/master/0076-minimum-window-substring) |
@@ -244,6 +245,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/xi-lef/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/xi-lef/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
@@ -402,6 +404,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xi-lef/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/xi-lef/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
