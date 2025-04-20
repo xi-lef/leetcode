@@ -47,6 +47,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/xi-lef/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/xi-lef/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
@@ -78,6 +79,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
+| [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -334,6 +336,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
+| [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
@@ -348,6 +351,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [0134-gas-station](https://github.com/xi-lef/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/xi-lef/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
+| [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 ## Divide and Conquer
 |  |
 | ------- |
