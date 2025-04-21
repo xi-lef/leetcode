@@ -52,6 +52,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 | [1019-squares-of-a-sorted-array](https://github.com/xi-lef/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 | [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
+| [2249-count-the-hidden-sequences](https://github.com/xi-lef/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/xi-lef/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/xi-lef/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -418,6 +419,7 @@ For now, I only focus on [Grind 75](https://www.techinterviewhandbook.org/grind7
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
+| [2249-count-the-hidden-sequences](https://github.com/xi-lef/leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Union Find
 |  |
 | ------- |
