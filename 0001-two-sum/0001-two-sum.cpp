@@ -1,15 +1,12 @@
-#include <ranges>
-
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        const size_t n = nums.size();
-        for (const int a : views::iota(0uz, n)) {
-            for (const int b : views::iota(0uz, n)) {
-                if (a != b && nums[a] + nums[b] == target) {
-                    return {a, b};
-                }
-            }
+    vector<int> twoSum(const vector<int>& nums, int target) {
+        unordered_map<int, int> s{};
+        for (int i = 0; i < nums.size(); ++i) {
+            const int comp = target - nums[i];
+            if (s.contains(comp))
+                return {i, s[comp]};
+            s[nums[i]] = i;
         }
         return {};
     }
