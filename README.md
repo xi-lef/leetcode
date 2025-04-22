@@ -26,6 +26,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/xi-lef/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/xi-lef/leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/xi-lef/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/xi-lef/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
@@ -348,6 +349,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0013-roman-to-integer](https://github.com/xi-lef/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/xi-lef/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/xi-lef/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
