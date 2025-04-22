@@ -16,6 +16,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xi-lef/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/xi-lef/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/xi-lef/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
@@ -287,6 +288,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/xi-lef/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/xi-lef/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
