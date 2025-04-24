@@ -92,6 +92,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/xi-lef/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3379-score-of-a-string](https://github.com/xi-lef/leetcode/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -355,6 +357,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | ------- |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
