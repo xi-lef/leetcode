@@ -33,6 +33,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0088-merge-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/xi-lef/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xi-lef/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/xi-lef/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/xi-lef/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/xi-lef/leetcode/tree/master/0136-single-number) |
@@ -311,6 +312,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/xi-lef/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/xi-lef/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/xi-lef/leetcode/tree/master/0198-house-robber) |
