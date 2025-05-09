@@ -45,6 +45,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0198-house-robber](https://github.com/xi-lef/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/xi-lef/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0205-isomorphic-strings](https://github.com/xi-lef/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/xi-lef/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
@@ -485,6 +487,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xi-lef/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/xi-lef/leetcode/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/xi-lef/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Graph
 |  |
