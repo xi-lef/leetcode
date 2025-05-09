@@ -89,6 +89,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0160-intersection-of-two-linked-lists](https://github.com/xi-lef/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/xi-lef/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/xi-lef/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
@@ -128,6 +129,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0168-excel-sheet-column-title](https://github.com/xi-lef/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/xi-lef/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/xi-lef/leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/xi-lef/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
