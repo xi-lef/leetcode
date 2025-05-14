@@ -113,6 +113,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/xi-lef/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xi-lef/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
@@ -152,6 +153,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3379-score-of-a-string](https://github.com/xi-lef/leetcode/tree/master/3379-score-of-a-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -359,6 +361,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0416-partition-equal-subset-sum](https://github.com/xi-lef/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/xi-lef/leetcode/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -415,6 +418,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -440,6 +444,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/xi-lef/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
