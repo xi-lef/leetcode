@@ -50,6 +50,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0217-contains-duplicate](https://github.com/xi-lef/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xi-lef/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/xi-lef/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/xi-lef/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -498,6 +499,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0137-single-number-ii](https://github.com/xi-lef/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/xi-lef/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/xi-lef/leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/xi-lef/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
