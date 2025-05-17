@@ -75,6 +75,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2249-count-the-hidden-sequences](https://github.com/xi-lef/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/xi-lef/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/xi-lef/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/xi-lef/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -155,6 +156,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/xi-lef/leetcode/tree/master/3379-score-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -373,6 +375,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0416-partition-equal-subset-sum](https://github.com/xi-lef/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/xi-lef/leetcode/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
