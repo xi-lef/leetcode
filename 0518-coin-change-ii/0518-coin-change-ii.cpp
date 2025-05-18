@@ -4,7 +4,7 @@ public:
         if (amount == 0)
             return 1;
 
-        vector<long> combs(amount + 1);
+        vector<unsigned long> combs(amount + 1);
         for (const int& c : coins) {
             if (c > amount)
                 continue;
