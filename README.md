@@ -202,6 +202,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0445-add-two-numbers-ii](https://github.com/xi-lef/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/xi-lef/leetcode/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/xi-lef/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xi-lef/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/xi-lef/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -471,6 +472,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0445-add-two-numbers-ii](https://github.com/xi-lef/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xi-lef/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/xi-lef/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
