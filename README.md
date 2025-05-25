@@ -120,6 +120,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0219-contains-duplicate-ii](https://github.com/xi-lef/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/xi-lef/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -162,6 +163,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0205-isomorphic-strings](https://github.com/xi-lef/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/xi-lef/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
