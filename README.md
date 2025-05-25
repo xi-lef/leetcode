@@ -486,6 +486,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0171-excel-sheet-column-number](https://github.com/xi-lef/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/xi-lef/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/xi-lef/leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/xi-lef/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/xi-lef/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
