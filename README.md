@@ -173,6 +173,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0868-push-dominoes](https://github.com/xi-lef/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1205-defanging-an-ip-address](https://github.com/xi-lef/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
