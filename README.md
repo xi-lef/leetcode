@@ -173,6 +173,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0290-word-pattern](https://github.com/xi-lef/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/xi-lef/leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
@@ -199,6 +200,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0155-min-stack](https://github.com/xi-lef/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/xi-lef/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/xi-lef/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/xi-lef/leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/xi-lef/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/xi-lef/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
@@ -243,6 +245,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0234-palindrome-linked-list](https://github.com/xi-lef/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/xi-lef/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xi-lef/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/xi-lef/leetcode/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
