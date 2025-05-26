@@ -297,6 +297,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/xi-lef/leetcode/tree/master/0975-range-sum-of-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/xi-lef/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +375,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0543-diameter-of-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/xi-lef/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/xi-lef/leetcode/tree/master/0975-range-sum-of-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/xi-lef/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Sorting
 |  |
 | ------- |
