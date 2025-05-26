@@ -46,6 +46,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0137-single-number-ii](https://github.com/xi-lef/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/xi-lef/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/xi-lef/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/xi-lef/leetcode/tree/master/0198-house-robber) |
@@ -417,6 +418,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0119-pascals-triangle-ii](https://github.com/xi-lef/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/xi-lef/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/xi-lef/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/xi-lef/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
