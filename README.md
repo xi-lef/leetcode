@@ -77,6 +77,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/xi-lef/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/xi-lef/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/xi-lef/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/xi-lef/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -131,6 +132,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
+| [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/xi-lef/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xi-lef/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -470,6 +472,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -502,6 +505,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xi-lef/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
+| [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2556-convert-the-temperature](https://github.com/xi-lef/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/xi-lef/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
