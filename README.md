@@ -502,6 +502,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xi-lef/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2556-convert-the-temperature](https://github.com/xi-lef/leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/xi-lef/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/xi-lef/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3321-type-of-triangle](https://github.com/xi-lef/leetcode/tree/master/3321-type-of-triangle) |
