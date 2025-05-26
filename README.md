@@ -513,6 +513,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xi-lef/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/xi-lef/leetcode/tree/master/1500-count-largest-group) |
+| [1610-xor-operation-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2556-convert-the-temperature](https://github.com/xi-lef/leetcode/tree/master/2556-convert-the-temperature) |
@@ -564,6 +565,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/xi-lef/leetcode/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
