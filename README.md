@@ -25,6 +25,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0041-first-missing-positive](https://github.com/xi-lef/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/xi-lef/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/xi-lef/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/xi-lef/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/xi-lef/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
@@ -663,6 +664,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0037-sudoku-solver](https://github.com/xi-lef/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/xi-lef/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/xi-lef/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/xi-lef/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
 ## Combinatorics
