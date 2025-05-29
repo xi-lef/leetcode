@@ -1,7 +1,6 @@
 class Solution {
 public:
     int totalNQueens(int n) {
-        rows = vector<bool>(n);
         cols = vector<bool>(n);
         diag_up = vector<bool>(n * 2 - 1);
         diag_down = vector<bool>(n * 2 - 1);
@@ -13,7 +12,6 @@ public:
 private:
     int answer{};
 
-    vector<bool> rows;
     vector<bool> cols;
     vector<bool> diag_up;
     vector<bool> diag_down;
@@ -29,9 +27,9 @@ private:
             if (++queens == n) {
                 ++answer;
             } else {
-                rows[y] = cols[x] = diag_up[up_i] = diag_down[down_i] = true;
+                cols[x] = diag_up[up_i] = diag_down[down_i] = true;
                 solve(n, board, queens, y + 1);
-                rows[y] = cols[x] = diag_up[up_i] = diag_down[down_i] = false;
+                cols[x] = diag_up[up_i] = diag_down[down_i] = false;
             }
             --queens;
             board[y][x] = '.';
