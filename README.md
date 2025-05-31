@@ -73,6 +73,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0792-binary-search](https://github.com/xi-lef/leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/xi-lef/leetcode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/xi-lef/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/xi-lef/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
@@ -364,6 +365,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/xi-lef/leetcode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/xi-lef/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -466,6 +468,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/xi-lef/leetcode/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/xi-lef/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/xi-lef/leetcode/tree/master/1791-richest-customer-wealth) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
