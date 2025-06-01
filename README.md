@@ -66,6 +66,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0518-coin-change-ii](https://github.com/xi-lef/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/xi-lef/leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/xi-lef/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
@@ -134,6 +135,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/xi-lef/leetcode/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/xi-lef/leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -410,6 +412,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/xi-lef/leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/xi-lef/leetcode/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/xi-lef/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -505,6 +508,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | ------- |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -563,6 +567,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0179-largest-number](https://github.com/xi-lef/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/xi-lef/leetcode/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/xi-lef/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -612,6 +617,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/xi-lef/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/xi-lef/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
