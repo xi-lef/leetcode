@@ -43,6 +43,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0119-pascals-triangle-ii](https://github.com/xi-lef/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xi-lef/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/xi-lef/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/xi-lef/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/xi-lef/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/xi-lef/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
@@ -566,6 +567,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0011-container-with-most-water](https://github.com/xi-lef/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/xi-lef/leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/xi-lef/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/xi-lef/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/xi-lef/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/xi-lef/leetcode/tree/master/0561-array-partition) |
