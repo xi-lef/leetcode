@@ -100,6 +100,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/xi-lef/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/xi-lef/leetcode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/xi-lef/leetcode/tree/master/3321-type-of-triangle) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/xi-lef/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/xi-lef/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -476,6 +477,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0945-snakes-and-ladders](https://github.com/xi-lef/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/xi-lef/leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/xi-lef/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/xi-lef/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/xi-lef/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search Tree
