@@ -30,8 +30,6 @@ public:
                     candies = 1;
                 }
             } else {
-                answer += count * (1 - candies);
-
                 count = 0;
                 candies = 1;
                 answer += candies;
