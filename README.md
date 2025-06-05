@@ -33,6 +33,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0057-insert-interval](https://github.com/xi-lef/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/xi-lef/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/xi-lef/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/xi-lef/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/xi-lef/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
@@ -464,6 +465,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0033-search-in-rotated-sorted-array](https://github.com/xi-lef/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/xi-lef/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/xi-lef/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/xi-lef/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/xi-lef/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/xi-lef/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -477,6 +479,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0037-sudoku-solver](https://github.com/xi-lef/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/xi-lef/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/xi-lef/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/xi-lef/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
