@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string robotWithString(string& s) {
+    string robotWithString(const string& s) {
         vector<int> count(128);
         char lowest = 'z';
         for (const char& c : s) {
