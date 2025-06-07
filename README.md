@@ -187,6 +187,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0242-valid-anagram](https://github.com/xi-lef/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/xi-lef/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0344-reverse-string](https://github.com/xi-lef/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/xi-lef/leetcode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/xi-lef/leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/xi-lef/leetcode/tree/master/0409-longest-palindrome) |
@@ -301,6 +302,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0234-palindrome-linked-list](https://github.com/xi-lef/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/xi-lef/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/xi-lef/leetcode/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/xi-lef/leetcode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/xi-lef/leetcode/tree/master/0908-middle-of-the-linked-list) |
