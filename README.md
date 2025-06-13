@@ -67,6 +67,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0349-intersection-of-two-arrays](https://github.com/xi-lef/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/xi-lef/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/xi-lef/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/xi-lef/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/xi-lef/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/xi-lef/leetcode/tree/master/0561-array-partition) |
@@ -484,6 +485,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0322-coin-change](https://github.com/xi-lef/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/xi-lef/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/xi-lef/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/xi-lef/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/xi-lef/leetcode/tree/master/0868-push-dominoes) |
@@ -743,6 +745,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0078-subsets](https://github.com/xi-lef/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/xi-lef/leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/xi-lef/leetcode/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
