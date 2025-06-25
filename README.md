@@ -256,6 +256,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0739-daily-temperatures](https://github.com/xi-lef/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/xi-lef/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/xi-lef/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/xi-lef/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
@@ -287,6 +288,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0908-middle-of-the-linked-list](https://github.com/xi-lef/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xi-lef/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/xi-lef/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/xi-lef/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/xi-lef/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/xi-lef/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -307,6 +309,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0326-power-of-three](https://github.com/xi-lef/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xi-lef/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/xi-lef/leetcode/tree/master/0394-decode-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/xi-lef/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -824,6 +827,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/xi-lef/leetcode/tree/master/0739-daily-temperatures) |
+| [2573-remove-nodes-from-linked-list](https://github.com/xi-lef/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
