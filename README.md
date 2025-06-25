@@ -626,6 +626,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/xi-lef/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/xi-lef/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2383-add-two-integers](https://github.com/xi-lef/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/xi-lef/leetcode/tree/master/2556-convert-the-temperature) |
@@ -801,6 +802,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/xi-lef/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xi-lef/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/xi-lef/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
