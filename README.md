@@ -224,6 +224,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1205-defanging-an-ip-address](https://github.com/xi-lef/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/xi-lef/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/xi-lef/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/xi-lef/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -517,6 +518,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0518-coin-change-ii](https://github.com/xi-lef/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0868-push-dominoes](https://github.com/xi-lef/leetcode/tree/master/0868-push-dominoes) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -650,6 +652,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | ------- |
 | [0070-climbing-stairs](https://github.com/xi-lef/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
@@ -665,6 +668,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/xi-lef/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/xi-lef/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/xi-lef/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/xi-lef/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/xi-lef/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/xi-lef/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
