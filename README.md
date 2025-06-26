@@ -222,6 +222,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xi-lef/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/xi-lef/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/xi-lef/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/xi-lef/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/xi-lef/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -636,6 +637,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/xi-lef/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/xi-lef/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/xi-lef/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2383-add-two-integers](https://github.com/xi-lef/leetcode/tree/master/2383-add-two-integers) |
