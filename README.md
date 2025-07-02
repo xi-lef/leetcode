@@ -592,12 +592,14 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/xi-lef/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/xi-lef/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/xi-lef/leetcode/tree/master/0460-lfu-cache) |
+| [0969-number-of-recent-calls](https://github.com/xi-lef/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/xi-lef/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/xi-lef/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0969-number-of-recent-calls](https://github.com/xi-lef/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Interactive
 |  |
 | ------- |
@@ -888,4 +890,8 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/xi-lef/leetcode/tree/master/0948-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/xi-lef/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
