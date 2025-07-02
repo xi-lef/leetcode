@@ -594,6 +594,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0460-lfu-cache](https://github.com/xi-lef/leetcode/tree/master/0460-lfu-cache) |
 | [0969-number-of-recent-calls](https://github.com/xi-lef/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
+| [1708-design-parking-system](https://github.com/xi-lef/leetcode/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -613,6 +614,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/xi-lef/leetcode/tree/master/1708-design-parking-system) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/xi-lef/leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/xi-lef/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -735,6 +737,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0068-text-justification](https://github.com/xi-lef/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/xi-lef/leetcode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
+| [1708-design-parking-system](https://github.com/xi-lef/leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/xi-lef/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/xi-lef/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/xi-lef/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
