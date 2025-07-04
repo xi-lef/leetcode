@@ -324,6 +324,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0394-decode-string](https://github.com/xi-lef/leetcode/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/xi-lef/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xi-lef/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/xi-lef/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -668,6 +669,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/xi-lef/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/xi-lef/leetcode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xi-lef/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/xi-lef/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/xi-lef/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Memoization
@@ -732,6 +734,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0342-power-of-four](https://github.com/xi-lef/leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xi-lef/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/xi-lef/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
