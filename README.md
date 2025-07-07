@@ -94,6 +94,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1293-three-consecutive-odds](https://github.com/xi-lef/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/xi-lef/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/xi-lef/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xi-lef/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/xi-lef/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/xi-lef/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -508,6 +509,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0948-sort-an-array](https://github.com/xi-lef/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/xi-lef/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xi-lef/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/xi-lef/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xi-lef/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/xi-lef/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -700,6 +702,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/xi-lef/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/xi-lef/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xi-lef/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/xi-lef/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1804-maximum-binary-string-after-change](https://github.com/xi-lef/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/xi-lef/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -771,6 +774,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0621-task-scheduler](https://github.com/xi-lef/leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/xi-lef/leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/xi-lef/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xi-lef/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/xi-lef/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/xi-lef/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
