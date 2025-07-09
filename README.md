@@ -124,6 +124,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/xi-lef/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/xi-lef/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/xi-lef/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/xi-lef/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -715,6 +716,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/xi-lef/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/xi-lef/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/xi-lef/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/xi-lef/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -792,6 +794,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0219-contains-duplicate-ii](https://github.com/xi-lef/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/xi-lef/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/xi-lef/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/xi-lef/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
 |  |
 | ------- |
