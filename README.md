@@ -124,6 +124,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/xi-lef/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/xi-lef/leetcode/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/xi-lef/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/xi-lef/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/xi-lef/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/xi-lef/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -558,6 +559,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/xi-lef/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
