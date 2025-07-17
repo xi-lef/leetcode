@@ -41,7 +41,7 @@ public:
         for (int y = 0; y < m; ++y) {
             for (int x = 0; x < n; ++x) {
                 if (reach_pacific[y][x] && reach_atlantic[y][x])
-                    answer.emplace_back(initializer_list{y, x});
+                    answer.push_back(vector<int>{y, x});
             }
         }
         return answer;
