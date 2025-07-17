@@ -53,6 +53,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0152-maximum-product-subarray](https://github.com/xi-lef/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/xi-lef/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/xi-lef/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/xi-lef/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/xi-lef/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xi-lef/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -363,6 +364,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0142-linked-list-cycle-ii](https://github.com/xi-lef/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/xi-lef/leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xi-lef/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/xi-lef/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/xi-lef/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/xi-lef/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/xi-lef/leetcode/tree/master/0283-move-zeroes) |
@@ -668,6 +670,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0150-evaluate-reverse-polish-notation](https://github.com/xi-lef/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/xi-lef/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/xi-lef/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/xi-lef/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/xi-lef/leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/xi-lef/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/xi-lef/leetcode/tree/master/0231-power-of-two) |
