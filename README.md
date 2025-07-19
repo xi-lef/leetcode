@@ -95,6 +95,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/xi-lef/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/xi-lef/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/xi-lef/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/xi-lef/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/xi-lef/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/xi-lef/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xi-lef/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -243,6 +244,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xi-lef/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/xi-lef/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/xi-lef/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1804-maximum-binary-string-after-change](https://github.com/xi-lef/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/xi-lef/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/xi-lef/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -444,6 +446,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/xi-lef/leetcode/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/xi-lef/leetcode/tree/master/0975-range-sum-of-bst) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/xi-lef/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -842,6 +845,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0139-word-break](https://github.com/xi-lef/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/xi-lef/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/xi-lef/leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/xi-lef/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Prefix Sum
 |  |
 | ------- |
