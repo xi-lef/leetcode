@@ -244,6 +244,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1023-time-based-key-value-store](https://github.com/xi-lef/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/xi-lef/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/xi-lef/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/xi-lef/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xi-lef/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1804-maximum-binary-string-after-change](https://github.com/xi-lef/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/xi-lef/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
