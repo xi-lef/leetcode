@@ -251,6 +251,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1302-delete-characters-to-make-fancy-string](https://github.com/xi-lef/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/xi-lef/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1804-maximum-binary-string-after-change](https://github.com/xi-lef/leetcode/tree/master/1804-maximum-binary-string-after-change) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/xi-lef/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/xi-lef/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/xi-lef/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/xi-lef/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -288,6 +289,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0445-add-two-numbers-ii](https://github.com/xi-lef/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/xi-lef/leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/xi-lef/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/xi-lef/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/xi-lef/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/xi-lef/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -737,6 +739,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xi-lef/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/xi-lef/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1804-maximum-binary-string-after-change](https://github.com/xi-lef/leetcode/tree/master/1804-maximum-binary-string-after-change) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/xi-lef/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/xi-lef/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/xi-lef/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/xi-lef/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
