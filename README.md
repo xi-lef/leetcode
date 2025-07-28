@@ -112,6 +112,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2058-concatenation-of-array](https://github.com/xi-lef/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/xi-lef/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/xi-lef/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xi-lef/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/xi-lef/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xi-lef/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/xi-lef/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -787,6 +788,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0338-counting-bits](https://github.com/xi-lef/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/xi-lef/leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/xi-lef/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xi-lef/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xi-lef/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/xi-lef/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -889,6 +891,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/xi-lef/leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/xi-lef/leetcode/tree/master/0494-target-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xi-lef/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -907,6 +910,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/xi-lef/leetcode/tree/master/1656-count-good-triplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xi-lef/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/xi-lef/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/xi-lef/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/xi-lef/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
