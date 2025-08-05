@@ -143,6 +143,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/xi-lef/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/xi-lef/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/xi-lef/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/xi-lef/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -602,6 +603,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/xi-lef/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/xi-lef/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/xi-lef/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/xi-lef/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -814,6 +816,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2299-merge-nodes-in-between-zeros](https://github.com/xi-lef/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2479-meeting-rooms-iii](https://github.com/xi-lef/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xi-lef/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/xi-lef/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -979,4 +982,12 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/xi-lef/leetcode/tree/master/0969-number-of-recent-calls) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/xi-lef/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/xi-lef/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
