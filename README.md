@@ -125,6 +125,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/xi-lef/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/xi-lef/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/xi-lef/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/xi-lef/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/xi-lef/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/xi-lef/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/xi-lef/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -804,6 +805,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/xi-lef/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/xi-lef/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/xi-lef/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/xi-lef/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/xi-lef/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/xi-lef/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -887,6 +889,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0724-find-pivot-index](https://github.com/xi-lef/leetcode/tree/master/0724-find-pivot-index) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/xi-lef/leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2249-count-the-hidden-sequences](https://github.com/xi-lef/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2529-range-product-queries-of-powers](https://github.com/xi-lef/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Union Find
 |  |
 | ------- |
