@@ -75,6 +75,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xi-lef/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/xi-lef/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/xi-lef/leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/xi-lef/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/xi-lef/leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/xi-lef/leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
@@ -626,6 +627,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0079-word-search](https://github.com/xi-lef/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/xi-lef/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xi-lef/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/xi-lef/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/xi-lef/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/xi-lef/leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/xi-lef/leetcode/tree/master/0854-making-a-large-island) |
@@ -823,6 +825,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [0067-add-binary](https://github.com/xi-lef/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/xi-lef/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/xi-lef/leetcode/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/xi-lef/leetcode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/xi-lef/leetcode/tree/master/0874-backspace-string-compare) |
 | [1708-design-parking-system](https://github.com/xi-lef/leetcode/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/xi-lef/leetcode/tree/master/2048-build-array-from-permutation) |
