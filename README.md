@@ -137,6 +137,7 @@ For now, I focus on [Grind 75](https://www.techinterviewhandbook.org/grind75/).
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/xi-lef/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/xi-lef/leetcode/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/xi-lef/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/xi-lef/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/xi-lef/leetcode/tree/master/3321-type-of-triangle) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/xi-lef/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/xi-lef/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
